@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
+h2, h3, h4, .nav-item, #transtion, footer {
+    text-align: center;
+}
